@@ -8,7 +8,6 @@ channels:
   - https://conda.anaconda.org/anaconda/
   - defaults
 dependencies:
- 
   - fiona=1.8.20=py38h4bd599a_0  
   - flake8=3.8.4=py_0
   - flask=1.1.2=pyh9f0ad1d_0  
