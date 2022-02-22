@@ -1,19 +1,14 @@
 name: copernicus
 channels:
   - conda-forge
-  - anaconda
-  - https://conda.anaconda.org/iota2/
-  - https://conda.anaconda.org/orfeotoolbox/
-  - https://conda.anaconda.org/conda-forge/
-  - https://conda.anaconda.org/anaconda/
 dependencies:
-  - rasterio=1.2.4=py38hc02fa9c_1  
-  - scikit-image=0.18.1=py38h4c96930_0
-  - scikit-learn=0.24.1=py38ha09990b_0
-  - scipy=1.6.1=py38h5f893b4_0
-  - seaborn=0.11.1=hd8ed1ab_1
-  - seaborn-base=0.11.1=pyhd8ed1ab_1  
-  - shapely=1.7.1=py38h2426642_4 
-  - wheel=0.36.2=pyhd3deb0d_0
-  - widgetsnbextension=3.5.1=py38haa244fe_4  
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
 prefix: C:\ProgramData\anaconda3\envs\copernicus
