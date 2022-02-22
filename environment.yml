@@ -24,7 +24,6 @@ dependencies:
   - scipy
   - seaborn
   - shapely
-  - mpl_toolkits
   - termcolor
   - sklearn
   - osgeo
@@ -33,5 +32,5 @@ dependencies:
   - pickle
   - pylab
   - math
-   
+  - mpl_toolkits
 prefix: C:\ProgramData\anaconda3\envs\copernicus
