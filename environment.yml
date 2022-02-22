@@ -7,7 +7,7 @@ channels:
   - https://conda.anaconda.org/conda-forge/
   - https://conda.anaconda.org/anaconda/
 dependencies:
-   - rasterio=1.2.4=py38hc02fa9c_1  
+  - rasterio=1.2.4=py38hc02fa9c_1  
   - scikit-image=0.18.1=py38h4c96930_0
   - scikit-learn=0.24.1=py38ha09990b_0
   - scipy=1.6.1=py38h5f893b4_0
