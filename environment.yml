@@ -25,7 +25,6 @@ dependencies:
   - seaborn
   - shapely
   - termcolor
-  - sklearn
   - osgeo
   - random
   - glob
